@@ -1,0 +1,233 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Niconne&family=Noto+Sans:wght@100&family=Poppins:wght@200;300;500&family=Redressed&family=Roboto:wght@900&family=Ubuntu&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* font styles 
+    font-family: 'Lato', sans-serif;
+
+    font-family: 'Niconne', cursive;
+
+    font-family: 'Noto Sans', sans-serif;
+
+    font-family: 'Poppins', sans-serif;
+
+    font-family: 'Redressed', cursive;
+
+    font-family: 'Roboto', sans-serif;
+
+    font-family: 'Ubuntu', sans-serif*/
+
+.background-image {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 98vw;
+}
+
+.text {
+    display: flex;
+    justify-content: center;
+    font-stretch: wider;
+}
+
+h1 {
+    font-family: 'Lato', sans-serif;
+    font-size: 160px;
+    color: white;
+    margin-top: -882px;
+
+    margin-left: -293px;
+}
+
+#h {
+    display: flex;
+    margin-top: -998px;
+    margin-left: 669px;
+}
+
+#a {
+    display: flex;
+    margin-top: -16px;
+    margin-left: 835px;
+}
+
+#e {
+    display: flex;
+    margin-top: -18px;
+    margin-left: 986px;
+
+}
+
+#c {
+    display: flex;
+    margin-top: -18px;
+    margin-left: 1156px;
+}
+
+#q {
+    display: flex;
+    margin-top: -18px;
+    margin-left: 1327px;
+}
+
+a {
+    color: white;
+    font-family: 'Lato', sans-serif;
+    text-decoration: none;
+}
+
+h2 {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: -42px;
+    margin-left: 88px;
+}
+
+h3 {
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-style: italic;
+    margin-top: 756px;
+    margin-left: 1135px;
+    font-size: 60px;
+    font-weight: 100;
+}
+
+p {
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-style: italic;
+    margin-top: 18px;
+    margin-left: 913px;
+    font-size: 20px;
+}
+
+h4 {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 10px;
+    margin-left: 910px;
+}
+
+body {
+    background-color: black;
+}
+
+button {
+    margin-left: 59px;
+    margin-top: -30px;
+    font-size: 30px;
+    border: 3px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 15px;
+    height: 64px;
+    width: 154px;
+    background-color: black;
+}
+
+button a {
+    color: white;
+}
+
+#btn-home {
+    margin-left: 16px;
+    margin-top: -30px;
+}
+
+#btn-home-one {
+    margin-left: 59px;
+    margin-top: -30px;
+}
+
+#bg-img {
+    display: flex;
+    justify-content: center;
+}
+
+#h-e {
+    display: flex;
+    margin-top: -550px;
+    margin-left: 669px;
+}
+
+#a-e {
+    display: flex;
+    margin-top: -16px;
+    margin-left: 835px;
+}
+
+#e-e {
+    display: flex;
+    margin-top: -18px;
+    margin-left: 986px;
+
+}
+
+#c-e {
+    display: flex;
+    margin-top: -18px;
+    margin-left: 1156px;
+}
+
+#q-e {
+    display: flex;
+    margin-top: -18px;
+    margin-left: 1327px;
+}
+/* 
+#btn-explore {
+    margin-left: 16px;
+    margin-top: 586px;
+}
+
+#btn-explore-one {
+    margin-left: 1060px;
+    margin-top: -30px;
+} */
+
+#head-e {
+    display: flex;
+    justify-content: end;
+    font-family: 'Lato', sans-serif;
+    font-size: 130px;
+    color: white;
+    margin-top: -485px;
+    margin-left: 470px;
+    text-align: right;
+    margin-right: 65px;
+    padding-right: 20px;
+}
+
+.issue1 {
+    /* display: flex; */
+    /* justify-content: left; */
+    margin-right: 10px;
+}
+
+#issue1{
+    
+    margin-right: 259px;
+margin-left: -879px;
+}
+#issue h3{
+    font-style: normal;
+}
+
+
+.n{
+    font-size: 20px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 10px;
+    /* list-style: none; */
+    display: flex;
+    
+}

@@ -23,10 +23,11 @@
 .background-image {
     display: flex;
     justify-content: center;
+    margin-top: 0px;
 }
 
 img {
-    width: 98vw;
+    width: 100vw;
 }
 video{
     width: 98vw;
@@ -37,46 +38,51 @@ video{
     display: flex;
     justify-content: center;
     font-stretch: wider;
-    margin-top: -1011px;
 }
 
 h1 {
     font-family: 'Lato', sans-serif;
-    font-size: 160px;
-    color: #a2a6b3;
-    margin-top: -551px;
+    font-size: 52px;
+    color: white;
+    margin-top: 693px;
+    text-align: center
 
 }
 
 #h {
     display: flex;
-    margin-top: -724px;
-    margin-left: 669px;
+    margin-top: -169px;
+    margin-left: 315px;
+    font-size: 12px;
 }
 
 #a {
     display: flex;
-    margin-top: -16px;
-    margin-left: 835px;
+    margin-top: -15px;
+    margin-left: 261px;
+    font-size: 12px;
 }
 
 #e {
     display: flex;
-    margin-top: -18px;
-    margin-left: 986px;
+    margin-top: -15px;
+    margin-left: 195px;
 
+    font-size: 12px;
 }
 
 #c {
     display: flex;
-    margin-top: -18px;
-    margin-left: 1156px;
+    margin-top: 5px;
+    margin-left: 22px;
+    font-size: 12px;
 }
 
 #q {
     display: flex;
-    margin-top: -18px;
-    margin-left: 1327px;
+    margin-top: -34px;
+    margin-left: 112px;
+    font-size: 12px;
 }
 
 a {
@@ -88,19 +94,19 @@ a {
 h2 {
     color: white;
     font-family: 'Roboto', sans-serif;
-    font-size: 40px;
+    font-size: 24px;
     font-weight: 700;
-    margin-top: -42px;
-    margin-left: 88px;
+    margin-top: -22px;
+    margin-left: 20px;
 }
 
 h3 {
     color: white;
     font-family: 'Lato', sans-serif;
-    font-style: italic;
-    margin-top: 459px;
-    margin-left: 1135px;
-    font-size: 60px;
+    font-style: normal;
+    margin-top: 151px;
+    margin-left: 17px;
+    font-size: 29px;
     font-weight: 100;
 }
 
@@ -108,16 +114,16 @@ p {
     color: white;
     font-family: 'Lato', sans-serif;
     font-style: italic;
-    margin-top: 18px;
-    margin-left: 913px;
-    font-size: 20px;
+    margin-top: -1px;
+    margin-left: 47px;
+    font-size: 14px;
 }
 
 h4 {
     color: white;
     font-family: 'Roboto', sans-serif;
-    margin-top: 10px;
-    margin-left: 910px;
+    margin-top: -5px;
+    margin-left: 154px;
 }
 
 body {
@@ -142,13 +148,15 @@ button a {
 }
 
 #btn-home {
-    margin-left: 16px;
-    margin-top: -30px;
+    margin-left: 276px;
+    margin-top: -59px;
+    display: flex;
 }
 
 #btn-home-one {
-    margin-left: 59px;
-    margin-top: -30px;
+    margin-left: 13px;
+    margin-top: 101px;
+    display: flex;
 }
 
 #bg-img {

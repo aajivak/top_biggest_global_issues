@@ -29,7 +29,8 @@
 img {
     width: 100vw;
 }
-video{
+
+video {
     width: 98vw;
 
 }
@@ -46,7 +47,6 @@ h1 {
     color: white;
     margin-top: 693px;
     text-align: center
-
 }
 
 #h {
@@ -114,15 +114,15 @@ p {
     color: white;
     font-family: 'Lato', sans-serif;
     font-style: italic;
-    margin-top: -1px;
-    margin-left: 47px;
+    margin-top: 6px;
+    margin-left: 25px;
     font-size: 14px;
 }
 
 h4 {
     color: white;
     font-family: 'Roboto', sans-serif;
-    margin-top: -5px;
+    margin-top: 8px;
     margin-left: 154px;
 }
 
@@ -133,14 +133,14 @@ body {
 button {
     margin-left: 59px;
     margin-top: -30px;
-    font-size: 30px;
-    border: 3px;
+    font-size: 20px;
+    /* border: 3px;
     border-style: solid;
     border-color: white;
     border-radius: 15px;
     height: 64px;
     width: 154px;
-    background-color: black;
+    background-color: black; */
 }
 
 button a {
@@ -148,14 +148,14 @@ button a {
 }
 
 #btn-home {
-    margin-left: 276px;
+    margin-left: 290px;
     margin-top: -59px;
     display: flex;
 }
 
 #btn-home-one {
     margin-left: 13px;
-    margin-top: 101px;
+    margin-top: 91px;
     display: flex;
 }
 
@@ -194,6 +194,7 @@ button a {
     margin-top: -18px;
     margin-left: 1327px;
 }
+
 /* 
 #btn-explore {
     margin-left: 16px;
@@ -224,11 +225,12 @@ button a {
     margin-right: 10px;
 }
 
-#issue1{
-    
+#issue1 {
+
     margin-right: 259px;
-margin-left: -879px;
+    margin-left: -879px;
 }
-#issue h3{
+
+#issue h3 {
     font-style: normal;
 }

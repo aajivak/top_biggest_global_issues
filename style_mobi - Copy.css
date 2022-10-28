@@ -1,0 +1,234 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Niconne&family=Noto+Sans:wght@100&family=Poppins:wght@200;300;500&family=Redressed&family=Roboto:wght@900&family=Ubuntu&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* font styles 
+    font-family: 'Lato', sans-serif;
+
+    font-family: 'Niconne', cursive;
+
+    font-family: 'Noto Sans', sans-serif;
+
+    font-family: 'Poppins', sans-serif;
+
+    font-family: 'Redressed', cursive;
+
+    font-family: 'Roboto', sans-serif;
+
+    font-family: 'Ubuntu', sans-serif*/
+
+.background-image {
+    display: flex;
+    justify-content: center;
+    margin-top: 0px;
+}
+
+img {
+    width: 100vw;
+}
+video{
+    width: 98vw;
+
+}
+
+.text {
+    display: flex;
+    justify-content: center;
+    font-stretch: wider;
+}
+
+h1 {
+    font-family: 'Lato', sans-serif;
+    font-size: 52px;
+    color: white;
+    margin-top: 693px;
+    text-align: center
+
+}
+
+#h {
+    display: flex;
+    margin-top: -169px;
+    margin-left: 315px;
+    font-size: 12px;
+}
+
+#a {
+    display: flex;
+    margin-top: -15px;
+    margin-left: 261px;
+    font-size: 12px;
+}
+
+#e {
+    display: flex;
+    margin-top: -15px;
+    margin-left: 195px;
+
+    font-size: 12px;
+}
+
+#c {
+    display: flex;
+    margin-top: 5px;
+    margin-left: 22px;
+    font-size: 12px;
+}
+
+#q {
+    display: flex;
+    margin-top: -34px;
+    margin-left: 112px;
+    font-size: 12px;
+}
+
+a {
+    color: white;
+    font-family: 'Lato', sans-serif;
+    text-decoration: none;
+}
+
+h2 {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: -22px;
+    margin-left: 20px;
+}
+
+h3 {
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    margin-top: 151px;
+    margin-left: 17px;
+    font-size: 29px;
+    font-weight: 100;
+}
+
+p {
+    color: white;
+font-family: 'Lato', sans-serif;
+font-style: italic;
+margin-top: 6px;
+margin-left: 25px;
+font-size: 14px;
+}
+
+h4 {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 5px;
+    margin-left: 154px;
+}
+
+body {
+    background-color: black;
+}
+
+button {
+    margin-left: 59px;
+    margin-top: -30px;
+    font-size: 20px;
+    /* border: 3px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 15px;
+    height: 64px;
+    width: 154px;
+    background-color: black; */
+}
+
+button a {
+    color: white;
+}
+
+#btn-home {
+    margin-left: 290px;
+    margin-top: -59px;
+    display: flex;
+}
+
+#btn-home-one {
+    margin-left: 13px;
+    margin-top: 101px;
+    display: flex;
+}
+
+#bg-img {
+    display: flex;
+    justify-content: center;
+}
+
+#h-e {
+    display: flex;
+    margin-top: -550px;
+    margin-left: 669px;
+}
+
+#a-e {
+    display: flex;
+    margin-top: -16px;
+    margin-left: 835px;
+}
+
+#e-e {
+    display: flex;
+    margin-top: -18px;
+    margin-left: 986px;
+
+}
+
+#c-e {
+    display: flex;
+    margin-top: -18px;
+    margin-left: 1156px;
+}
+
+#q-e {
+    display: flex;
+    margin-top: -18px;
+    margin-left: 1327px;
+}
+/* 
+#btn-explore {
+    margin-left: 16px;
+    margin-top: 586px;
+}
+
+#btn-explore-one {
+    margin-left: 1060px;
+    margin-top: -30px;
+} */
+
+#head-e {
+    display: flex;
+    justify-content: end;
+    font-family: 'Lato', sans-serif;
+    font-size: 130px;
+    color: white;
+    margin-top: -485px;
+    margin-left: 470px;
+    text-align: right;
+    margin-right: 65px;
+    padding-right: 20px;
+}
+
+.issue1 {
+    /* display: flex; */
+    /* justify-content: left; */
+    margin-right: 10px;
+}
+
+#issue1{
+    
+    margin-right: 259px;
+margin-left: -879px;
+}
+#issue h3{
+    font-style: normal;
+}

@@ -23,10 +23,15 @@
 .background-image {
     display: flex;
     justify-content: center;
+    margin-top: 0px;
 }
 
 img {
+    width: 100vw;
+}
+video{
     width: 98vw;
+
 }
 
 .text {
@@ -37,42 +42,47 @@ img {
 
 h1 {
     font-family: 'Lato', sans-serif;
-    font-size: 75px;
+    font-size: 52px;
     color: white;
-    margin-top: -632px;
+    margin-top: 693px;
+    text-align: center
 
-    margin-left: -889px;
 }
 
 #h {
     display: flex;
-    margin-top: -2100px;
-    margin-left: 669px;
+    margin-top: -584px;
+    margin-left: 315px;
+    font-size: 12px;
 }
 
 #a {
     display: flex;
-    margin-top: -16px;
-    margin-left: 835px;
+    margin-top: -15px;
+    margin-left: 261px;
+    font-size: 12px;
 }
 
 #e {
     display: flex;
-    margin-top: -18px;
-    margin-left: 986px;
+    margin-top: -15px;
+    margin-left: 195px;
 
+    font-size: 12px;
 }
 
 #c {
     display: flex;
-    margin-top: -18px;
-    margin-left: 1156px;
+    margin-top: 5px;
+    margin-left: 22px;
+    font-size: 12px;
 }
 
 #q {
     display: flex;
-    margin-top: -18px;
-    margin-left: 1327px;
+    margin-top: -34px;
+    margin-left: 112px;
+    font-size: 12px;
 }
 
 a {
@@ -84,38 +94,36 @@ a {
 h2 {
     color: white;
     font-family: 'Roboto', sans-serif;
-    font-size: 40px;
+    font-size: 24px;
     font-weight: 700;
-    margin-top: -42px;
-    margin-left: 88px;
+    margin-top: -22px;
+    margin-left: 20px;
 }
 
 h3 {
     color: white;
     font-family: 'Lato', sans-serif;
-    font-style: italic;
-    margin-top: 756px;
-    margin-left: 1135px;
-    font-size: 60px;
+    font-style: normal;
+    margin-top: 151px;
+    margin-left: 17px;
+    font-size: 29px;
     font-weight: 100;
 }
 
 p {
     color: white;
-    font-family: 'Lato', sans-serif;
-    font-style: normal;
-    margin-top: 62px;
-    margin-left: 603px;
-    font-size: 31px;
-    text-align: center;
-    margin-right: 111px;
+font-family: 'Lato', sans-serif;
+font-style: italic;
+margin-top: 6px;
+margin-left: 25px;
+font-size: 14px;
 }
 
 h4 {
     color: white;
     font-family: 'Roboto', sans-serif;
-    margin-top: 10px;
-    margin-left: 910px;
+    margin-top: 5px;
+    margin-left: 154px;
 }
 
 body {
@@ -125,29 +133,31 @@ body {
 button {
     margin-left: 59px;
     margin-top: -30px;
-    font-size: 30px;
-    border: 3px;
+    font-size: 20px;
+    /* border: 3px;
     border-style: solid;
     border-color: white;
     border-radius: 15px;
     height: 64px;
     width: 154px;
-    background-color: black;
+    background-color: black; */
 }
 
 button a {
     color: white;
 }
 
-/* #btn-home {
-    margin-left: 16px;
-    margin-top: -30px;
+#btn-home {
+    margin-left: 290px;
+    margin-top: -59px;
+    display: flex;
 }
 
 #btn-home-one {
-    margin-left: 1240px;
-    margin-top: 34px;
-} */
+    margin-left: 13px;
+    margin-top: 101px;
+    display: flex;
+}
 
 #bg-img {
     display: flex;
@@ -224,9 +234,10 @@ margin-left: -879px;
 }
 
 .text_container{
-    margin-top: 54px;
+    margin-top: -39px;
     display: inline-block;
-    margin-left: 328px;
+    margin-left: -95px;
+    margin-right: -70px;
 }
 
 .text_container_p{
@@ -244,11 +255,13 @@ margin-left: -879px;
 .tx_cnt_li{
     text-align: center;
     font-family: 'Poppins',sans-serif;
-    font-size: 30px;
+    font-size: 24px;
     color: aliceblue;
-    padding: 10px;
+    padding: 2px;
     padding-top: 20px;
 
+    margin-left: 137px;
+    margin-right: 125px;
 }
 
 .text_container_h2{

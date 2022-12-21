@@ -38,7 +38,7 @@ img {
 h1 {
     font-family: 'Lato', sans-serif;
     font-size: 75px;
-    color: white;
+    color: rgb(87, 87, 87);
     margin-top: -805px;
 
     margin-left: -919px;
@@ -46,7 +46,7 @@ h1 {
 
 #h {
     display: flex;
-    margin-top: -998px;
+    margin-top: -2100px;
     margin-left: 669px;
 }
 
@@ -76,13 +76,13 @@ h1 {
 }
 
 a {
-    color: white;
+    color: rgb(87, 87, 87);
     font-family: 'Lato', sans-serif;
     text-decoration: none;
 }
 
 h2 {
-    color: white;
+    color: rgb(87, 87, 87);
     font-family: 'Roboto', sans-serif;
     font-size: 40px;
     font-weight: 700;
@@ -91,7 +91,7 @@ h2 {
 }
 
 h3 {
-    color: white;
+    color: rgb(87, 87, 87);
     font-family: 'Lato', sans-serif;
     font-style: italic;
     margin-top: 756px;
@@ -101,18 +101,18 @@ h3 {
 }
 
 p {
-    color: white;
+    color: rgb(87, 87, 87);
     font-family: 'Lato', sans-serif;
     font-style: normal;
     margin-top: 282px;
-    margin-left: 117px;
+    margin-left: 303px;
     font-size: 20px;
     text-align: center;
-    margin-right: 449px;
+    margin-right: 324px;
 }
 
 h4 {
-    color: white;
+    color: rgb(87, 87, 87);
     font-family: 'Roboto', sans-serif;
     margin-top: 10px;
     margin-left: 910px;
@@ -223,3 +223,14 @@ margin-left: -879px;
     font-style: normal;
 }
 
+#text_about_hd{
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 83px;
+    color: rgb(87, 87, 87);
+}
+
+#text_about_hd_p{
+    margin-top: 10px;
+}
